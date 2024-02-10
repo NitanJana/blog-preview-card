@@ -5,15 +5,14 @@ const Card = () => {
   return (
     <div className="bg-custom-black rounded-xl">
       <main
-        role="main"
         tabIndex={0}
         className="border-custom-black bg-custom-white group/card grid w-96 -translate-x-2 -translate-y-2 cursor-pointer items-center justify-center gap-4 rounded-xl border  p-5 outline-none transition duration-[400ms] hover:-translate-x-4 hover:-translate-y-4 focus:-translate-x-4 focus:-translate-y-4"
       >
-        <img tabIndex={0} src={heroImg} alt="" className=" rounded-xl" />
+        <img src={heroImg} alt="" className=" rounded-xl" />
         <header tabIndex={0} className="bg-custom-yellow w-fit rounded px-3 py-1 font-extrabold">
           Learning
         </header>
-        <p aria-label="Published December 21, 2023" tabIndex={0} className="">
+        <p tabIndex={0} className="">
           Published 21 Dec 2023
         </p>
         <h1
