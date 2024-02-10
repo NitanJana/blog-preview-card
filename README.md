@@ -27,8 +27,8 @@ Users should be able to:
 ### Links
 
 - Repository URL: [Github](https://github.com/NitanJana/blog-preview-card)
-- Solution URL: [Solution]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-react-and-tailwindcss-gaUoWLl2cY)
+- Live Site URL: [Live](https://blog-preview-card-nitan.netlify.app/)
 
 ## My process
 
