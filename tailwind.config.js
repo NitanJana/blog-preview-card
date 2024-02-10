@@ -13,6 +13,9 @@ export default {
         primary: 'Figtree',
         italic: 'FigtreeItalic',
       },
+      boxShadow: {
+        card: '0px 0px 0px 0px hsl(0, 0%, 7%)',
+      },
     },
   },
   plugins: [],
