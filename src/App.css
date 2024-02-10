@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: Figtree;
+  src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: FigtreeItalic;
+  src: url("./assets/fonts/Figtree-Italic-VariableFont_wght.ttf") format("truetype");
+}

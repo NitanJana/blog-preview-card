@@ -2,7 +2,18 @@
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'custom-yellow': 'hsl(47, 88%, 63%)',
+        'custom-white': 'hsl(0, 0%, 100%)',
+        'custom-grey': 'hsl(0, 0%, 50%)',
+        'custom-black': 'hsl(0, 0%, 7%)',
+      },
+      fontFamily: {
+        primary: 'Figtree',
+        italic: 'FigtreeItalic',
+      },
+    },
   },
   plugins: [],
 };
