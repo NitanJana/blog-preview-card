@@ -8,6 +8,7 @@ export default {
         'custom-white': 'hsl(0, 0%, 100%)',
         'custom-grey': 'hsl(0, 0%, 50%)',
         'custom-black': 'hsl(0, 0%, 7%)',
+        'custom-blue': 'hsl(228, 45%, 44%)',
       },
       fontFamily: {
         primary: 'Figtree',
